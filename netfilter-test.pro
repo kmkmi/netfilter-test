@@ -5,12 +5,6 @@ CONFIG -= qt
 LIBS +=  -lnetfilter_queue
 
 SOURCES += \
-        ethhdr.cpp \
-        ip.cpp \
-        mac.cpp \
         main.cpp
 
 HEADERS += \
-    ethhdr.h \
-    ip.h \
-    mac.h
