@@ -9,7 +9,6 @@
 #include <netinet/ip.h>
 #include <netinet/tcp.h>
 #include <string.h>
-#include "ethhdr.h"
 
 #define ETHERTYPE_IP 0x800
 #define HTTP_PORT 0x50
